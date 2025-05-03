@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.打磚塊.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Nhu_Csie\\Downloads\\VRRRRRR123\\VR1234\\Arkanoid\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "打磚塊 [Testing]"
+        }
+      }
+    }
+  ]
+}

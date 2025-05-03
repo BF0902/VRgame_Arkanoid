@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\game_score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\game_score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\bag\\inventory\\script\\pointer\\ft_interactableray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\bag\\inventory\\script\\pointer\\ft_interactableray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\game_score2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\game_score2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\FT_InteractableRay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\startforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nhu_Csie\\Downloads\\VRRRRRR123\\VR1234\\Arkanoid\\Assets\\Scenes\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\game_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\game_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\mtprefeb\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\mtprefeb\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\game_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\game_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\game_startforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\game_startforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\cameraposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\cameraposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\core\\scripts\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\throwable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\increasetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\increasetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\scripts\\steamvr_fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\scripts\\steamvr_fade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\core\\scripts\\bodycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\bodycollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\core\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\scripts\\steamvr_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\scripts\\steamvr_behaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\scripts\\steamvr_render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\scripts\\steamvr_render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\core\\scripts\\handphysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\handphysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\code1\\game_effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\code1\\game_effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\bag\\inventory\\script\\pointer\\ft_laserpointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\bag\\inventory\\script\\pointer\\ft_laserpointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\bag\\inventory\\script\\pointer\\ft_pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\bag\\inventory\\script\\pointer\\ft_pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\vrbuttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194B913-A83D-7162-538B-103EE6ED2AD2}|Assembly-CSharp.csproj|solutionrelative:assets\\vrbuttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\hints\\scripts\\controllerbuttonhints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\hints\\scripts\\controllerbuttonhints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\core\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|d:\\\u5DE5\u4F5C\\\u5C65\u6B77\\vr\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\arkanoid\\arkanoid\\assets\\steamvr\\interactionsystem\\core\\scripts\\controllerhoverhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50472D7E-DB18-A32E-B346-FCB0766FFF4D}|SteamVR.csproj|solutionrelative:assets\\steamvr\\interactionsystem\\core\\scripts\\controllerhoverhighlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game_Score2.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\Game_Score2.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Score2.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\Game_Score2.cs",
+              "RelativeToolTip": "Assets\\Game_Score2.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:45.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_Score.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_Score.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\Game_Score.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_Score.cs",
+              "RelativeToolTip": "Assets\\code1\\Game_Score.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FT_InteractableRay.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\bag\\inventory\\script\\pointer\\FT_InteractableRay.cs",
+              "RelativeDocumentMoniker": "Assets\\bag\\inventory\\script\\pointer\\FT_InteractableRay.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\bag\\inventory\\script\\pointer\\FT_InteractableRay.cs",
+              "RelativeToolTip": "Assets\\bag\\inventory\\script\\pointer\\FT_InteractableRay.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "random.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\random.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\random.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\random.cs",
+              "RelativeToolTip": "Assets\\code1\\random.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game_Timer.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\Game_Timer.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_Timer.cs",
+              "RelativeToolTip": "Assets\\code1\\Game_Timer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Button.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\MtPrefeb\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\MtPrefeb\\Button.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\MtPrefeb\\Button.cs",
+              "RelativeToolTip": "Assets\\MtPrefeb\\Button.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game_Player.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_Player.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\Game_Player.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_Player.cs",
+              "RelativeToolTip": "Assets\\code1\\Game_Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game_startforce.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_startforce.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\Game_startforce.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_startforce.cs",
+              "RelativeToolTip": "Assets\\code1\\Game_startforce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Destructible.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Destructible.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\Destructible.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Destructible.cs",
+              "RelativeToolTip": "Assets\\code1\\Destructible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraPosition.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\CameraPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraPosition.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\CameraPosition.cs",
+              "RelativeToolTip": "Assets\\CameraPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Throwable.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Throwable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "increaseTime.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\increaseTime.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\increaseTime.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\increaseTime.cs",
+              "RelativeToolTip": "Assets\\code1\\increaseTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SteamVR_Fade.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\Scripts\\SteamVR_Fade.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Scripts\\SteamVR_Fade.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\Scripts\\SteamVR_Fade.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Scripts\\SteamVR_Fade.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BodyCollider.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\BodyCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\BodyCollider.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\BodyCollider.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\BodyCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Interactable.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Interactable.cs",
+              "ViewState": "AQIAAGcBAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SteamVR_Behaviour.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\Scripts\\SteamVR_Behaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Scripts\\SteamVR_Behaviour.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\Scripts\\SteamVR_Behaviour.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Scripts\\SteamVR_Behaviour.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SteamVR_Render.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\Scripts\\SteamVR_Render.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Scripts\\SteamVR_Render.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\Scripts\\SteamVR_Render.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Scripts\\SteamVR_Render.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HandPhysics.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HandPhysics.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HandPhysics.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HandPhysics.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\HandPhysics.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Game_effect.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_effect.cs",
+              "RelativeDocumentMoniker": "Assets\\code1\\Game_effect.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\code1\\Game_effect.cs",
+              "RelativeToolTip": "Assets\\code1\\Game_effect.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FT_LaserPointer.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\bag\\inventory\\script\\pointer\\FT_LaserPointer.cs",
+              "RelativeDocumentMoniker": "Assets\\bag\\inventory\\script\\pointer\\FT_LaserPointer.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\bag\\inventory\\script\\pointer\\FT_LaserPointer.cs",
+              "RelativeToolTip": "Assets\\bag\\inventory\\script\\pointer\\FT_LaserPointer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FT_Pointer.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\bag\\inventory\\script\\pointer\\FT_Pointer.cs",
+              "RelativeDocumentMoniker": "Assets\\bag\\inventory\\script\\pointer\\FT_Pointer.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\bag\\inventory\\script\\pointer\\FT_Pointer.cs",
+              "RelativeToolTip": "Assets\\bag\\inventory\\script\\pointer\\FT_Pointer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\Nhu_Csie\\Downloads\\VRRRRRR123\\VR1234\\Arkanoid\\Assets\\Scenes\\Timer.cs",
+              "ToolTip": "C:\\Users\\Nhu_Csie\\Downloads\\VRRRRRR123\\VR1234\\Arkanoid\\Assets\\Scenes\\Timer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T08:56:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VRButtonInteraction.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\VRButtonInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\VRButtonInteraction.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\VRButtonInteraction.cs",
+              "RelativeToolTip": "Assets\\VRButtonInteraction.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ControllerButtonHints.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Hints\\Scripts\\ControllerButtonHints.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Hints\\Scripts\\ControllerButtonHints.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Hints\\Scripts\\ControllerButtonHints.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Hints\\Scripts\\ControllerButtonHints.cs",
+              "ViewState": "AQIAAMsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Player.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAEBVwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "startforce.cs",
+              "DocumentMoniker": "C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\startforce.cs",
+              "ToolTip": "C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\startforce.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-18T09:41:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ControllerHoverHighlight.cs",
+              "DocumentMoniker": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\ControllerHoverHighlight.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\ControllerHoverHighlight.cs",
+              "ToolTip": "D:\\\u5DE5\u4F5C\\\u5C65\u6B77\\VR\u4F5C\u54C1\u5C55\u793A\u7DB2\u9801\\Arkanoid\\Arkanoid\\Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\ControllerHoverHighlight.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\InteractionSystem\\Core\\Scripts\\ControllerHoverHighlight.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:39:46.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\Button.cs",
+              "ToolTip": "C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\Button.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-27T09:37:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FT_InteractableRay.cs",
+              "DocumentMoniker": "C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\FT_InteractableRay.cs",
+              "ToolTip": "C:\\Users\\Nhu_Csie\\Desktop\\VR_Arkanoid\\Arkanoid\\Assets\\FT_InteractableRay.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-27T09:37:11.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

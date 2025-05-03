@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b3596cd-dd3f-ed44-2f15-ddf79355ff26": {
+      "ProjectGuid": "3b3596cd-dd3f-ed44-2f15-ddf79355ff26",
+      "DisplayName": "SteamVR",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

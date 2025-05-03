@@ -1,0 +1,395 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1724060957930074, "dur":232, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060957930391, "dur":134921, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060958065333, "dur":232, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060958065680, "dur":7956, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060958074459, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1724060958074671, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1724060958074810, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1724060958074976, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1724060958075086, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/level3.resS" }}
+,{ "pid":12345, "tid":0, "ts":1724060958075192, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1724060958075617, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1724060958076150, "dur":243, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_knuckles.json" }}
+,{ "pid":12345, "tid":0, "ts":1724060958077012, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":0, "ts":1724060958077125, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":0, "ts":1724060958077467, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958077679, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958078474, "dur":165, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958078729, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958078821, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958078933, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958079040, "dur":138, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958079220, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958079393, "dur":184, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958079593, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958079997, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958080112, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958080172, "dur":146, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958080501, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958080677, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958080928, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958081297, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958081434, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958081612, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958081755, "dur":187, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958082093, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958082156, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958082579, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958082673, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958082892, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958082954, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958083418, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958083510, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958083572, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958083706, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958083968, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958084039, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958084102, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958084311, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1724060958084446, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/.exe" }}
+,{ "pid":12345, "tid":0, "ts":1724060958085211, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1724060958085411, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1724060958085562, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:///VR/VR()/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1724060958074433, "dur":11221, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060958085658, "dur":1506838, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060959592498, "dur":767, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060959593365, "dur":177, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060959593806, "dur":4292, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1724060958069883, "dur":15829, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724060958085718, "dur":9879, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724060958097976, "dur":812, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1724060958098803, "dur":341, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1724060958099172, "dur":324, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1724060958099498, "dur":383, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1724060958100328, "dur":367, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958100698, "dur":446, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958101149, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958101497, "dur":363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958101863, "dur":1120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\SteamVR.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958102989, "dur":354, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\SteamVR_Actions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958103347, "dur":330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958103681, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958104044, "dur":1091, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958105139, "dur":333, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958105475, "dur":405, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958105884, "dur":428, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958106316, "dur":1769, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958108087, "dur":320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958108410, "dur":356, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958108769, "dur":234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenXR.Features.MetaQuestSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958109004, "dur":596, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958109603, "dur":740, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958110345, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958110606, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958110911, "dur":348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerc69b4663-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1724060958098798, "dur":12601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1724060958111887, "dur":143, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724060958113203, "dur":438550, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1724060958553908, "dur":436, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1724060958553907, "dur":439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1724060958554373, "dur":15354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1724060958569774, "dur":4266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958574137, "dur":3217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958577446, "dur":3720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958581228, "dur":3626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958584904, "dur":5322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958594791, "dur":182, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1724060958590305, "dur":4688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958595071, "dur":5703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958600826, "dur":7494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958608368, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PackageCache\\com.unity.xr.openxr@1.8.2\\Runtime\\windows\\x64\\UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958608350, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958608512, "dur":87362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":1, "ts":1724060958695902, "dur":59088, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":1, "ts":1724060958695900, "dur":59092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":1, "ts":1724060958755173, "dur":88376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":1, "ts":1724060958843607, "dur":208638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1724060959052275, "dur":540181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724060958069958, "dur":15763, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724060958085738, "dur":586, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724060958086325, "dur":9276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724060958095633, "dur":420, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724060958102104, "dur":5763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1724060958107872, "dur":125592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1724060958233533, "dur":128900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1724060958363646, "dur":172928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958536685, "dur":31939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958568770, "dur":4880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958573725, "dur":4500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958578267, "dur":3506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958581876, "dur":4448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958586431, "dur":5254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958591750, "dur":4748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958596554, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958596552, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958596657, "dur":3944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958600684, "dur":5546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958606283, "dur":4651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1724060958610968, "dur":24943, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_vive.json" }}
+,{ "pid":12345, "tid":2, "ts":1724060958610967, "dur":24948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive.json" }}
+,{ "pid":12345, "tid":2, "ts":1724060958635939, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1724060958663947, "dur":96040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive.json" }}
+,{ "pid":12345, "tid":2, "ts":1724060958760018, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":2, "ts":1724060958760016, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":2, "ts":1724060958760093, "dur":83404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":2, "ts":1724060958843536, "dur":207937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1724060959051519, "dur":540952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724060958070029, "dur":15714, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724060958085747, "dur":615, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724060958086363, "dur":9264, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1724060958095651, "dur":138655, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1724060958095630, "dur":138678, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1724060958234350, "dur":14689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1724060958249073, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958249070, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958262300, "dur":132259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958491548, "dur":60127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958551727, "dur":22350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958574586, "dur":4054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958578746, "dur":4421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958583220, "dur":4271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958587549, "dur":4091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958591715, "dur":4198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958595971, "dur":4635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958600686, "dur":5436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958606180, "dur":4882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1724060958611097, "dur":24816, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_rift.json" }}
+,{ "pid":12345, "tid":3, "ts":1724060958611095, "dur":24820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_rift.json" }}
+,{ "pid":12345, "tid":3, "ts":1724060958663792, "dur":96208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_rift.json" }}
+,{ "pid":12345, "tid":3, "ts":1724060958760081, "dur":67496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/actions.json" }}
+,{ "pid":12345, "tid":3, "ts":1724060958827727, "dur":3567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1724060958831412, "dur":194819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level3.resS" }}
+,{ "pid":12345, "tid":3, "ts":1724060959026269, "dur":566222, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724060958070066, "dur":15708, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724060958085780, "dur":1006, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724060958086787, "dur":9187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724060958095978, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1724060958102134, "dur":41723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1724060958143918, "dur":89752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1724060958143914, "dur":89758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1724060958233704, "dur":64519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1724060958298293, "dur":65898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/.exe" }}
+,{ "pid":12345, "tid":4, "ts":1724060958491178, "dur":78556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958569809, "dur":8211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958578069, "dur":3755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958581910, "dur":4302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958586265, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958586426, "dur":5251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958591790, "dur":556, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958592536, "dur":5057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958597678, "dur":5268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958603006, "dur":3131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958606241, "dur":4625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958610911, "dur":24998, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":4, "ts":1724060958610909, "dur":25005, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":4, "ts":1724060958635940, "dur":63, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1724060958663868, "dur":96145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":4, "ts":1724060958760045, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1724060958760117, "dur":832273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958070121, "dur":15667, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1724060958085793, "dur":818, "ph":"X", "name": "File",  "args": { "detail":"D:\\\\\\VR\\Arkanoid\\Arkanoid\\Library\\Bee\\PlayerScriptAssemblies\\Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958085793, "dur":1239, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1724060958087033, "dur":8578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1724060958095620, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1724060958098536, "dur":126287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1724060958224870, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1724060958235241, "dur":74380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1724060958363350, "dur":173338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958536797, "dur":15028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958551883, "dur":21555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958573537, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958583631, "dur":110, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1724060958578647, "dur":5112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958583822, "dur":3992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958587883, "dur":4397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958592346, "dur":6112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958598534, "dur":5642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958604245, "dur":3338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958608075, "dur":172606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Plugins/x86_64/ucrtbased.dll" }}
+,{ "pid":12345, "tid":5, "ts":1724060958780735, "dur":28530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1724060958809407, "dur":10713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1724060958820197, "dur":134258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1724060958954507, "dur":97643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1724060959052176, "dur":540297, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1724060958070160, "dur":15639, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1724060958085804, "dur":787, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1724060958086591, "dur":9028, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1724060958095622, "dur":137617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1724060958233307, "dur":29612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1724060958262954, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958297779, "dur":272632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958570509, "dur":4251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958574839, "dur":6954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958581862, "dur":4546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958586561, "dur":5537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958598119, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1724060958592507, "dur":5707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958598289, "dur":7287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958605652, "dur":4600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1724060958663114, "dur":16836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":6, "ts":1724060958679980, "dur":74903, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_index_hmd.json" }}
+,{ "pid":12345, "tid":6, "ts":1724060958679979, "dur":74908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_index_hmd.json" }}
+,{ "pid":12345, "tid":6, "ts":1724060958755222, "dur":54735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_index_hmd.json" }}
+,{ "pid":12345, "tid":6, "ts":1724060958809998, "dur":4887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1724060958814970, "dur":5440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1724060958820499, "dur":8478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1724060958829061, "dur":223198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1724060959052296, "dur":540210, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1724060958070463, "dur":15345, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1724060958085812, "dur":559, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1724060958086372, "dur":9270, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1724060958095645, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1724060958098889, "dur":56169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1724060958155094, "dur":78330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1724060958233502, "dur":78504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1724060958363381, "dur":173737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958537396, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1724060958537465, "dur":31167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958569231, "dur":5641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958574985, "dur":4390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958583696, "dur":156, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1724060958579436, "dur":4447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958584098, "dur":4236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958588414, "dur":12845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958601356, "dur":5775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958608249, "dur":143934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Plugins/x86_64/openvr_api.dll" }}
+,{ "pid":12345, "tid":7, "ts":1724060958752217, "dur":2796, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":7, "ts":1724060958752215, "dur":2800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":7, "ts":1724060958755255, "dur":88181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":7, "ts":1724060958843541, "dur":183239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1724060959026821, "dur":565640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1724060958071076, "dur":14739, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1724060958085819, "dur":541, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1724060958086361, "dur":9316, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1724060958095700, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1724060958095681, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1724060958098956, "dur":87715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1724060958186704, "dur":46625, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1724060958186701, "dur":46631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1724060958235456, "dur":76135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1724060958363621, "dur":187461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958551139, "dur":21187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958572409, "dur":3959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958576515, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/SteamVR.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958580239, "dur":4595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958584913, "dur":5213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958590254, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958594796, "dur":4444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958599310, "dur":5053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958604435, "dur":4076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958608599, "dur":71465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":8, "ts":1724060958755236, "dur":88520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" }}
+,{ "pid":12345, "tid":8, "ts":1724060958843789, "dur":181958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1724060959025827, "dur":26520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1724060959052370, "dur":540130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1724060958071579, "dur":14285, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1724060958085868, "dur":562, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1724060958086431, "dur":9552, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1724060958096002, "dur":137816, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1724060958095984, "dur":137836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1724060958233861, "dur":64385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1724060958298810, "dur":155542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1724060958549960, "dur":758, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1724060958491562, "dur":59260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958550963, "dur":20944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958571983, "dur":6546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.Features.MetaQuestSupport.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958578612, "dur":3771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958582436, "dur":5260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958587754, "dur":6307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958594150, "dur":5508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958599716, "dur":5987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958605758, "dur":4626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1724060958663146, "dur":16809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":9, "ts":1724060958679984, "dur":74905, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":9, "ts":1724060958679983, "dur":74909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":9, "ts":1724060958754905, "dur":122, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1724060958755269, "dur":54673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":9, "ts":1724060958809993, "dur":10632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1724060958820678, "dur":7546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1724060958828322, "dur":175639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1724060959004202, "dur":47943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1724060959052175, "dur":540291, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958072498, "dur":13409, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958085910, "dur":369, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958086280, "dur":9324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958095647, "dur":39224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1724060958095619, "dur":39257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1724060958134925, "dur":86891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1724060958221856, "dur":12942, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1724060958221852, "dur":12949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1724060958235500, "dur":92129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1724060958491367, "dur":59816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958551239, "dur":20860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958572152, "dur":4560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958576768, "dur":5200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958582017, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958586735, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958582118, "dur":4773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958586962, "dur":5915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958592923, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1724060958592984, "dur":6626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958599670, "dur":5861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958605621, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1724060958610475, "dur":21630, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":10, "ts":1724060958610473, "dur":21634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":10, "ts":1724060958663748, "dur":92541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":10, "ts":1724060958756378, "dur":87016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_knuckles.json" }}
+,{ "pid":12345, "tid":10, "ts":1724060958843442, "dur":182411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level3" }}
+,{ "pid":12345, "tid":10, "ts":1724060959025881, "dur":566624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1724060958072933, "dur":13031, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1724060958085965, "dur":9935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1724060958095903, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1724060958099127, "dur":87176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1724060958186341, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1724060958187215, "dur":61816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1724060958249069, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1724060958363894, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1724060958297796, "dur":66310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1724060958491196, "dur":47480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958538754, "dur":36253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958575067, "dur":4597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958583659, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1724060958579714, "dur":4085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958584008, "dur":4368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958588502, "dur":591, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1724060958589100, "dur":5034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958594614, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958599382, "dur":5030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958605481, "dur":5073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1724060958610582, "dur":22784, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\binding_vive_pro.json" }}
+,{ "pid":12345, "tid":11, "ts":1724060958610581, "dur":22789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_pro.json" }}
+,{ "pid":12345, "tid":11, "ts":1724060958663752, "dur":96273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/binding_vive_pro.json" }}
+,{ "pid":12345, "tid":11, "ts":1724060958760082, "dur":49303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":11, "ts":1724060958809437, "dur":144681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1724060958954171, "dur":72617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1724060959026824, "dur":565670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958073763, "dur":12274, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958086039, "dur":9568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958095726, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1724060958095620, "dur":394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1724060958100319, "dur":86742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1724060958187087, "dur":46204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1724060958235484, "dur":92395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1724060958363383, "dur":174352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958568554, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958537923, "dur":30718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958568785, "dur":7100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/Valve.Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958575941, "dur":3425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/SteamVR_Actions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958579433, "dur":5377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958588925, "dur":202, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958584897, "dur":4250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958592841, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958589214, "dur":3758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958593072, "dur":4771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958602368, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1724060958598088, "dur":4468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958602623, "dur":3614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958608258, "dur":124551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/Plugins/x86_64/XRSDKOpenVR.dll" }}
+,{ "pid":12345, "tid":12, "ts":1724060958732833, "dur":22165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Assets\\StreamingAssets\\SteamVR\\bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":12, "ts":1724060958732831, "dur":22169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":12, "ts":1724060958755236, "dur":88248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/StreamingAssets/SteamVR/bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":12, "ts":1724060958843534, "dur":183232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:///VR/VR()/_Data/level2" }}
+,{ "pid":12345, "tid":12, "ts":1724060959026804, "dur":565688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1724060959603809, "dur":3300, "ph":"X", "name": "ProfilerWriteOutput" }
+,
